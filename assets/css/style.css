@@ -1,0 +1,17 @@
+/*******************************************************************************
+* Stylesheet for GifTastic Assignment
+*******************************************************************************/
+/*  Page default settings */
+body {
+    background-color: rgb(223, 215, 215);
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+button,
+#add-search {
+    background-color: rgb(96, 194, 197);
+    color: whitesmoke;
+    margin: 10px 10px 10px;
+}
