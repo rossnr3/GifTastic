@@ -32,3 +32,8 @@ an animated image will return it to a static image.
 ## Resetting the page
 
 Re-loading the page will reset the topics and the GIF images.
+
+### Link to the deployed game
+
+[GitHub](https://rossnr3.github.io/GifTastic/ "GifTastic")
+
